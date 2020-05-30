@@ -2,6 +2,6 @@
 <!DOCTYPE html>
 <html>
   <body>
-     {{ content }}
+     Hi sugar dumpling!
   </body>
 </html>
