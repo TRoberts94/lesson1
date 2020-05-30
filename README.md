@@ -4,7 +4,8 @@
      Hi sugar dumpling! Welcome to my website! :)
   </body>
 </html>
-/Header 1
+<Header 1>
 This is my first paragraph :D 
-//Header 2 
+
+<Header 2>
 Here is my second paragraph!
