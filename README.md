@@ -1,7 +1,6 @@
 # Tiye's First Website
-<!DOCTYPE html>
 <html>
   <body>
-     Hi sugar dumpling!
+     Hi sugar dumpling! Welcome to my website! :)
   </body>
 </html>
